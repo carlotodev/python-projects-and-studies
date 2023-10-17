@@ -1,3 +1,4 @@
+# converte um número dado em segundos para dias, horas, minutos e segundos
 segundos_str = input("Insira o número de segundos que deseja converter: ")
 tempo_segs = int(segundos_str)
 

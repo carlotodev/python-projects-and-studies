@@ -1,3 +1,4 @@
+# converte uma temperatura de fahreinheit para celsius
 temperaturaFahreinheit = input("Digite uma temperatura em Fahreinheit: ")
 
 temperaturaCelsius = (float(temperaturaFahreinheit) - 32) * 5 / 9

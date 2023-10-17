@@ -1,3 +1,4 @@
+# calcula a média de 4 notas
 nota1str = input("Insira aqui a primeira nota: ")
 nota2str = input("Insira aqui a segunda nota: ")
 nota3str = input("Insira aqui a terceira nota: ")

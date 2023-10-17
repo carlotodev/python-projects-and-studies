@@ -1,3 +1,4 @@
+# mostra apenas o numero da casa das dezenas de algum numero dado
 numerostr = input("Digite um número inteiro: ")
 numero = int(numerostr)
 
